@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Voila le bordel</title>
     </head>
     <body>
         <h1>Projet GIT ISFCE DvpWeb</h1>
